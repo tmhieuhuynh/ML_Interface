@@ -1,0 +1,12 @@
+
+Best score: -17.32069500162274
+Best hyperparameters: {'alpha': 10, 'fit_intercept': False, 'normalize': False, 'solver': 'svd'} 
+
+Best score: -12.99649353479835
+Best hyperparameters: {'ridge__alpha': 0.001, 'ridge__fit_intercept': True, 'ridge__solver': 'svd', 'scaler': 'passthrough'} 
+
+Best score: -13.001985529401267
+Best hyperparameters: {'ridge__alpha': 0.001, 'ridge__fit_intercept': True, 'ridge__solver': 'svd', 'scaler': 'passthrough'} 
+
+Best score: -12.99649353479835
+Best hyperparameters: {'ridge__alpha': 0.001, 'ridge__fit_intercept': True, 'ridge__solver': 'svd', 'scaler': 'passthrough'} 

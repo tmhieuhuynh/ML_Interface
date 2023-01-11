@@ -1,0 +1,3 @@
+         MAPE   MAE  RMSE     r  P1Sigma  P2Sigma
+LIN-REG -4.05 -0.30  0.43  0.81     8.93     1.79
+RIDGE   -4.23 -0.31  0.44  0.80     8.93     1.79

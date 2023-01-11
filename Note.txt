@@ -1,0 +1,3 @@
+- Metric names display
+- Do not close app after completion
+- Progress Bar
