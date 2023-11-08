@@ -1,4 +1,8 @@
 # ML_Interface: A useful interface for Scikit-learn ML models
+This interface is constructed for the purpose of helping users interact with Machine Learning models of Scikit-learn rapidly without a programming foundation. The interface includes diverse algorithms for tuning, training as well as testing models. The results of the algorithms are recorded in detail after running.
+
+NOTE: The default hyperparameters are used for molecular descriptor datasets. They can be adjusted to be appropriate for other types of datasets.
+
 ## Usage notes
 Verified operating system: Windows
 
