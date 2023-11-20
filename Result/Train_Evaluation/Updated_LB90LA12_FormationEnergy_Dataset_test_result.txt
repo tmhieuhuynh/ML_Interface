@@ -1,2 +1,0 @@
-        MAPE    MAE   RMSE     r  P1Sigma  P2Sigma
-RIDGE -97.54 -96.69  109.4  0.24    74.41    41.73
