@@ -1,7 +1,13 @@
 # ML_Interface: A useful interface for Scikit-learn ML models
 This interface is constructed for the purpose of helping users interact with Machine Learning models of Scikit-learn rapidly without a programming foundation. The interface includes diverse algorithms for tuning, training as well as testing models. The results of the algorithms are recorded in detail after running.
 
-NOTE: The default hyperparameters are used for molecular descriptor datasets. They can be adjusted to be appropriate for other types of datasets.
+**NOTE:**
+
+- The data and result samples are referred from our research group's recent publication:
+  
+**Huynh, H.**; Kelly, T. J.; Vu, L.; Hoang, T.; Nguyen, P. A.; Le, T. C.; Jarvis, E. A.; Phan, H. Quantum Chemistry–Machine Learning Approach for Predicting Properties of Lewis Acid–Lewis Base Adducts. ACS Omega 2023, 8 (21), 19119–19127. https://doi.org/10.1021/acsomega.3c02822.
+
+- The default hyperparameters are used for molecular descriptor datasets. They can be adjusted to be appropriate for other types of datasets.
 
 ## Usage notes
 Verified operating system: Windows
