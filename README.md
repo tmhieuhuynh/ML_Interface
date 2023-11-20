@@ -41,7 +41,8 @@ git clone https://github.com/Serendipity12345/ML_Interface
 ## Tutorials
 1. Put your datasets (your datasets need to be in the csv format) in the 'Data' folder before running.
 
-2. Run the 'Main.py' file with a Python application.
+2. Run the 'Main.py' file with a Python application. An interface will appear for users to interact with.
+![Untitled](https://github.com/tmhieuhuynh/ML_Interface/assets/79396138/7a4b60e8-4e07-4949-9468-18452fe56b1d)
 
 3. After the interface is completely loaded, select one of the following approaches to input your dataset:
 	
