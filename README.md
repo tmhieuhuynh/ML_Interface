@@ -59,9 +59,12 @@ git clone https://github.com/Serendipity12345/ML_Interface
    Then, click on the 'Next' button to move forward.
 
 5. There are 5 analyzing options in this code as 5 tabs on the head of the interface.
+ 
+   ![image](https://github.com/tmhieuhuynh/ML_Interface/assets/79396138/02de5fc6-2987-436c-8214-47801645533f)
+   
    The code is only able to execute 1 analyzing option at one time. Select your option on the according tab.
 
 6. Select the model and modify its hyperparameters of your option to be more suitable with your dataset.
 
-7. Click on the 'Finish' button to execute the analysis. The interface will close after the analysis is done.
+8. Click on the 'Finish' button to execute the analysis. The interface will close after the analysis is done.
    The results of the analysis will be saved in the 'Result' folder.
