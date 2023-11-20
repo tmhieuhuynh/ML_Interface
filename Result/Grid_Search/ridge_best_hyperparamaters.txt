@@ -1,0 +1,3 @@
+
+Best score: -0.026279445703122215
+Best hyperparameters: {'ridge__alpha': 1, 'ridge__fit_intercept': True, 'ridge__solver': 'cholesky', 'scaler': 'passthrough'} 
